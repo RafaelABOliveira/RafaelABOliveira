@@ -11,7 +11,7 @@
 Sou um desenvolvedor Fullstack Pleno apaixonado por tecnologia, com mais de **5 anos de experiência** focado em **.NET (C#)** no backend e **ReactJS (JavaScript/TypeScript)** no frontend.  
 Tenho forte conhecimento em **Clean Architecture**, **SOLID**, **Clean Code**, e metodologias ágeis como **Scrum** e **Kanban**.
 
-Atualmente, atuo no **BTG Pactual**, onde trabalho diariamente em soluções robustas que envolvem desde a infraestrutura até o front-end, usando tecnologias modernas como:
+Atualmente, atuo na **E.Mix**, onde trabalho diariamente em soluções robustas que envolvem desde a infraestrutura até o front-end, usando tecnologias modernas como:
 
 - `.NET Core / .NET 7+`
 - `ReactJS` & `TypeScript`
