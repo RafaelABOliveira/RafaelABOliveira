@@ -48,18 +48,6 @@ Atualmente, atuo no **BTG Pactual**, onde trabalho diariamente em soluções rob
 - **Dashboard Financeiro**: Aplicação ReactJS para visualização e manipulação de dados financeiros em tempo real.
 - **Microservices para Investimentos**: Desenvolvimento de microsserviços que processam e distribuem dados financeiros usando padrões de mensageria.
 
----
-
-## Contato & Redes 📫
-
-| Plataforma  | Link                            |
-|-------------|--------------------------------|
-| LinkedIn    | [linkedin.com/in/rafaelrodrigues](https://linkedin.com/in/rafaelrodrigues) |
-| GitHub      | [github.com/rafaelrodrigues](https://github.com/rafaelrodrigues)           |
-| Email       | rafael.rodrigues@email.com       |
-
----
-
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" alt="3D Icon" width="80" />
   <p><i>Construindo código limpo, escalável e com estilo 3D 👾</i></p>
