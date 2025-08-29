@@ -1,7 +1,7 @@
 # 👨‍💻 Rafael Oliveira - Desenvolvedor Fullstack .NET & ReactJS 🚀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" alt="3D Coding" width="400"/>
+  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm82dG1wbmR2NGE0OHp5dnl0cTRsZ3hucG94em44d3k5bmJyeHltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="3D Coding" width="400"/>
 </div>
 
 ---
