@@ -40,13 +40,6 @@ Atualmente, atuo na **Unimed Campinas**, onde trabalho diariamente em soluções
 - Automação e melhoria contínua do fluxo de deploy com Docker e integração contínua.
 - Trabalho colaborativo em times multidisciplinares, aplicando metodologias ágeis para acelerar entregas e aumentar a qualidade.
 
----
-
-## Projetos em Destaque 🚀
-
-- **Consulta de CEP via API ViaCEP**: Serviço backend em .NET para consulta, validação e persistência de dados de endereços brasileiros.
-- **Dashboard Financeiro**: Aplicação ReactJS para visualização e manipulação de dados financeiros em tempo real.
-- **Microservices para Investimentos**: Desenvolvimento de microsserviços que processam e distribuem dados financeiros usando padrões de mensageria.
 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" alt="3D Icon" width="80" />
